@@ -1,5 +1,6 @@
 # fundamentals
 A Collection of Fundamental Knowleg partial ported from time to time to https://github.com/unlicense-code/
+Also used to build @component-manager and its components
 
 ## Content Versioning
 Is based via a Hash Algorythm at present sha256 is the smallest good denominator while incremental gets raised if
